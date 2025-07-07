@@ -160,11 +160,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\arda64\\source\\repos\\adminpanel\\adminpanel\\adminpanel.csproj",
+      "projectUniqueName": "C:\\project\\Simple-TCP-Remote-Server-in-sharp\\adminpanel\\adminpanel.csproj",
       "projectName": "adminpanel",
-      "projectPath": "C:\\Users\\arda64\\source\\repos\\adminpanel\\adminpanel\\adminpanel.csproj",
+      "projectPath": "C:\\project\\Simple-TCP-Remote-Server-in-sharp\\adminpanel\\adminpanel.csproj",
       "packagesPath": "C:\\Users\\arda64\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\arda64\\source\\repos\\adminpanel\\adminpanel\\obj\\",
+      "outputPath": "C:\\project\\Simple-TCP-Remote-Server-in-sharp\\adminpanel\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

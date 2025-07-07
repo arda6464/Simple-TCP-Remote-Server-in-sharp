@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "bNo3+OcrMeg=",
+  "dgSpecHash": "DPm1Ox9Bll4=",
   "success": true,
-  "projectFilePath": "C:\\Users\\arda64\\source\\repos\\adminpanel\\adminpanel\\adminpanel.csproj",
+  "projectFilePath": "C:\\project\\Simple-TCP-Remote-Server-in-sharp\\adminpanel\\adminpanel.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\arda64\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512",
     "C:\\Users\\arda64\\.nuget\\packages\\system.codedom\\9.0.6\\system.codedom.9.0.6.nupkg.sha512",
